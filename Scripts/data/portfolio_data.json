@@ -1,0 +1,26 @@
+{
+    "projects": [
+      {
+        "title": "Project 1",
+        "description": "Description of Project 1",
+        "link": "https://project1.com"
+      },
+      // Add more projects as needed
+    ],
+    "skills": ["Python", "JavaScript", "HTML/CSS", "React"],
+    "education": [
+      {
+        "degree": "Computer Science",
+        "institution": "University XYZ",
+        "year": 2020
+      },
+      // Add more education entries as needed
+    ],
+    "contact": {
+      "email": "your.email@example.com",
+      "linkedin": "https://www.linkedin.com/in/yourname",
+      "github": "https://github.com/yourusername",
+      "twitter": "https://twitter.com/yourtwitter"
+    }
+  }
+  
