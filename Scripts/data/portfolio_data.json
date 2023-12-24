@@ -1,0 +1,28 @@
+{
+    "projects": [
+      {
+        "title": "Project 1",
+        "description": "Description of Project 1",
+        "link": "https://project1.com"
+      },
+      // Add more projects as needed
+    ],
+    "skills": ["Python", "JSON", "HTML/CSS"],
+    "education": [
+      {
+        "Award": "Advanced Certificate of Applied Sciences",
+        "institution": "Kajjansi Progressive Senior Secondary School",
+        "year": 2020
+      },
+      {
+        "Award": "Bachelor of Science in Health Informatics",
+        "institution": "Deggendorf Institute of Applied Sciences",
+        "year": 2020
+      }
+      // Add more education entries as needed
+    ],
+    "contact": {
+      "email": "mutalegeorge367.com",
+    }
+  }
+  
